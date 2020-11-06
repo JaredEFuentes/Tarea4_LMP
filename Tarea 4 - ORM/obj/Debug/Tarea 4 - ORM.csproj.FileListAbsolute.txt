@@ -1,0 +1,12 @@
+C:\Users\amigo\source\repos\Tarea 4 - ORM\Tarea 4 - ORM\bin\Debug\Tarea 4 - ORM.exe.config
+C:\Users\amigo\source\repos\Tarea 4 - ORM\Tarea 4 - ORM\bin\Debug\Tarea 4 - ORM.exe
+C:\Users\amigo\source\repos\Tarea 4 - ORM\Tarea 4 - ORM\bin\Debug\Tarea 4 - ORM.pdb
+C:\Users\amigo\source\repos\Tarea 4 - ORM\Tarea 4 - ORM\bin\Debug\EntityFramework.dll
+C:\Users\amigo\source\repos\Tarea 4 - ORM\Tarea 4 - ORM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\amigo\source\repos\Tarea 4 - ORM\Tarea 4 - ORM\bin\Debug\EntityFramework.xml
+C:\Users\amigo\source\repos\Tarea 4 - ORM\Tarea 4 - ORM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\amigo\source\repos\Tarea 4 - ORM\Tarea 4 - ORM\obj\Debug\Tarea 4 - ORM.csprojAssemblyReference.cache
+C:\Users\amigo\source\repos\Tarea 4 - ORM\Tarea 4 - ORM\obj\Debug\Tarea 4 - ORM.csproj.CoreCompileInputs.cache
+C:\Users\amigo\source\repos\Tarea 4 - ORM\Tarea 4 - ORM\obj\Debug\Tarea 4 - ORM.csproj.CopyComplete
+C:\Users\amigo\source\repos\Tarea 4 - ORM\Tarea 4 - ORM\obj\Debug\Tarea 4 - ORM.exe
+C:\Users\amigo\source\repos\Tarea 4 - ORM\Tarea 4 - ORM\obj\Debug\Tarea 4 - ORM.pdb
